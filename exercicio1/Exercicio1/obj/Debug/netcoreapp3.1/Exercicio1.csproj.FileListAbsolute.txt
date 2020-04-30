@@ -1,0 +1,13 @@
+H:\c#\maxsoft\tornasse\exercicio1\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.exe
+H:\c#\maxsoft\tornasse\exercicio1\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.deps.json
+H:\c#\maxsoft\tornasse\exercicio1\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.runtimeconfig.json
+H:\c#\maxsoft\tornasse\exercicio1\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.runtimeconfig.dev.json
+H:\c#\maxsoft\tornasse\exercicio1\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.dll
+H:\c#\maxsoft\tornasse\exercicio1\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.pdb
+H:\c#\maxsoft\tornasse\exercicio1\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.csproj.CoreCompileInputs.cache
+H:\c#\maxsoft\tornasse\exercicio1\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.AssemblyInfoInputs.cache
+H:\c#\maxsoft\tornasse\exercicio1\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.AssemblyInfo.cs
+H:\c#\maxsoft\tornasse\exercicio1\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.dll
+H:\c#\maxsoft\tornasse\exercicio1\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.pdb
+H:\c#\maxsoft\tornasse\exercicio1\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.genruntimeconfig.cache
+H:\c#\maxsoft\tornasse\exercicio1\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.csprojAssemblyReference.cache

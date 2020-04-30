@@ -1,0 +1,2 @@
+H:\c#\maxsoft\tornasse\exercicio1\obj\x86\Debug\Gestaofuncionario.csprojAssemblyReference.cache
+H:\c#\maxsoft\tornasse\exercicio1\obj\x86\Debug\Gestaofuncionario.csproj.CoreCompileInputs.cache
