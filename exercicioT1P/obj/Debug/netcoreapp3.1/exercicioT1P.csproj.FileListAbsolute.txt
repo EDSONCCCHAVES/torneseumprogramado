@@ -1,0 +1,12 @@
+C:\Users\edson\source\repos\tornasse\exercicioT1P\exercicioT1P\obj\Debug\netcoreapp3.1\exercicioT1P.csproj.CoreCompileInputs.cache
+C:\Users\edson\source\repos\tornasse\exercicioT1P\exercicioT1P\obj\Debug\netcoreapp3.1\exercicioT1P.AssemblyInfoInputs.cache
+C:\Users\edson\source\repos\tornasse\exercicioT1P\exercicioT1P\obj\Debug\netcoreapp3.1\exercicioT1P.AssemblyInfo.cs
+C:\Users\edson\source\repos\tornasse\exercicioT1P\exercicioT1P\bin\Debug\netcoreapp3.1\exercicioT1P.exe
+C:\Users\edson\source\repos\tornasse\exercicioT1P\exercicioT1P\bin\Debug\netcoreapp3.1\exercicioT1P.deps.json
+C:\Users\edson\source\repos\tornasse\exercicioT1P\exercicioT1P\bin\Debug\netcoreapp3.1\exercicioT1P.runtimeconfig.json
+C:\Users\edson\source\repos\tornasse\exercicioT1P\exercicioT1P\bin\Debug\netcoreapp3.1\exercicioT1P.runtimeconfig.dev.json
+C:\Users\edson\source\repos\tornasse\exercicioT1P\exercicioT1P\bin\Debug\netcoreapp3.1\exercicioT1P.dll
+C:\Users\edson\source\repos\tornasse\exercicioT1P\exercicioT1P\bin\Debug\netcoreapp3.1\exercicioT1P.pdb
+C:\Users\edson\source\repos\tornasse\exercicioT1P\exercicioT1P\obj\Debug\netcoreapp3.1\exercicioT1P.dll
+C:\Users\edson\source\repos\tornasse\exercicioT1P\exercicioT1P\obj\Debug\netcoreapp3.1\exercicioT1P.pdb
+C:\Users\edson\source\repos\tornasse\exercicioT1P\exercicioT1P\obj\Debug\netcoreapp3.1\exercicioT1P.genruntimeconfig.cache
